@@ -1,0 +1,37 @@
+h1 {
+    color: green;
+    text-align: center;
+}
+
+.separator {
+    text-align: center;
+}
+.cmenu li {
+    list-style: none;
+    text-align: center;
+}
+
+#titl {
+    color: yellow;
+    text-align: center;
+}
+
+.cmenu a:link, .cmenu a:visited {
+    text-decoration: none;
+    background-color: red;
+    border: 1px solid orange;
+    color: orange;
+    display: block;
+    width: 200px;
+    margin-bottom: 1px;
+}
+
+.cmenu a:hover {
+    background-color: orange;
+    color: red;
+}
+
+.cmenu a:active {
+    background-color: darkorange;
+    color: darkred;
+}   
