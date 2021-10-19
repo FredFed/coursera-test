@@ -1,3 +1,0 @@
-COMANDO BROWSER SYNC PER APPLICARE I CAMBIAMENTI LIVE ALL'INTERA CARTELLA:
-
-	browser-sync start --server --directory --files "*"
